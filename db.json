@@ -1,8 +1,11 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "Teams": [
+    { "teamName": "Pittsburgh Steelers", "teamDivision": "AFC North", "teamImage": "steelers.png", "conference": "AFC.png", "teamRecord": "8-8",
+      "teamCoach": "Mike Tomlin", "offenseRank": "30", "defenseRank": "5", "superbowlWins": "6", "teamLink": "https://www.pro-football-reference.com/teams/pit/index.htm",},
+    { "teamName": "Washington Redskins", "teamDivision": "NFC East", "teamImage": "steelers.png", "conference": "AFC.png", "teamRecord": "3-13",
+      "teamCoach": "Ron Rivera", "offenseRank": "31", "defenseRank": "27", "superbowlWins": "3", "teamLink": "https://www.pro-football-reference.com/teams/was/",},
+    { "teamName": "Baltimore Ravens", "teamDivision": "AFC North", "teamImage": "steelers.png", "conference": "AFC.png", "teamRecord": "14-2",
+      "teamCoach": "John Harbaugh", "offenseRank": "2", "defenseRank": "4", "superbowlWins": "2", "teamLink": "https://www.pro-football-reference.com/teams/rav/",},
   ],
   "Status": "Ok"
 }
